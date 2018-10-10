@@ -6,3 +6,5 @@ A PowerShell module that facilitates build script interaction within Azure Devop
 
 By default, `Import-Module` will import all functions with a prefix of `Vsts`.
 You can configure this behavior by passing the `-Prefix` parameter to `Import-Module`.
+
+[Here's the documentation used as the reference for this repository](https://github.com/Microsoft/vsts-tasks/blob/master/docs/authoring/commands.md)
