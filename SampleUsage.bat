@@ -1,0 +1,1 @@
+powershell .\SampleUsage.ps1
